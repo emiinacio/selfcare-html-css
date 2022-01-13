@@ -1,10 +1,7 @@
 <br />
 <p>
   <h1>selfcare</h1>
-<p>
- 
   <a href="https://www.linkedin.com/in/emiinacio/">Contato</a>
-</p>
 </p>
 
 # Devchallenge 
