@@ -2,9 +2,7 @@
 <p>
   <h1>selfcare</h1>
 <p>
-  <br />
-  <br />
-·
+ 
   <a href="https://www.linkedin.com/in/emiinacio/">Contato</a>
 </p>
 </p>
