@@ -4,9 +4,6 @@
   <a href="https://www.linkedin.com/in/emiinacio/">Contato</a>
 </p>
 
-# Devchallenge 
-<a href="https://devchallenge.now.sh/">DevChallenge</a> permite que você evolua suas skills como programador!
-
 # Techs: 
 HTML<br>
 CSS<br>
