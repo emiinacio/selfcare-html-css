@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap');
+
+p, a {
+    font-family: 'Lato', sans-serif;
+    color: #161616;
+}
+
+a {
+    text-decoration: none;
+}
+
+.footer--icons ul li {
+    list-style: none;
+}

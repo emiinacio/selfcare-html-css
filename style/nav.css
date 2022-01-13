@@ -1,0 +1,42 @@
+.nav--menu {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin: 20px 50px 5px 50px;
+}
+
+.nav--logo a {
+    font-weight: bold;
+    font-size: 25px;
+    display: flex;
+    align-items: center;
+}
+
+.nav--logo img {
+    width: 25px;
+    padding-right: 10px;
+}
+
+.nav--icons ul{
+    display: flex;
+    flex-direction: row;
+}
+
+.nav--icons ul li {
+    list-style: none;
+    padding: 0 20px;
+}
+
+.nav--icons ul li a {
+    text-decoration: none;
+}
+
+.nav--icons img{
+    width: 25px;
+    padding-left: 15px;
+}
+
+@media only screen and (max-width: 414px) {
+    
+}

@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+}
+
+.header--banner img{
+    width: 100%;
+    margin: 0;
+}
+
+@media only screen and (max-width: 414px) {
+    
+}
